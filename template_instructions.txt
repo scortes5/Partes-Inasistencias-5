@@ -1,0 +1,19 @@
+Instructions for creating your template document:
+
+1. Create a new Word document (.docx)
+2. In your document, use the following placeholders where you want the user input to appear:
+   - ___1___ for the first input
+   - ___2___ for the second input
+   - ___3___ for the third input
+   - ___4___ for the fourth input
+   - ___5___ for the fifth input
+
+Example:
+This is a sample document.
+The first input will be: ___1___
+The second input will be: ___2___
+The third input will be: ___3___
+The fourth input will be: ___4___
+The fifth input will be: ___5___
+
+Save your document as a .docx file and upload it to the application. 
